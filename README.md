@@ -21,9 +21,9 @@ we can considerably extend the lifetime of devices under attack while minimizing
 hardware cost.
 
 # Authors
-Connor Jackson
-Harmon Herring
-Spencer Roth
-Chris Sequeira
-Ivan De Olivera Nunes
+Connor Jackson, 
+Harmon Herring, 
+Spencer Roth, 
+Chris Sequeira, 
+Ivan De Olivera Nunes, 
 Adam Caulfield
