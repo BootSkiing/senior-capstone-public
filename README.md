@@ -1,7 +1,7 @@
 # Senior Capstone - Defense Against Flash Write Denial of Service Attacks in IoT Devices
 This capstone project was an experiement in preventing a novel denial of service attack targeting embedded IoT devices.
 
-See the full paper [here]('/Defense Against Flash Write Denial of Service Attacks in IoT Devices.pdf')
+See the full paper [here](https://github.com/BootSkiing/senior-capstone-public/blob/main/Defense%20Against%20Flash%20Write%20Denial%20of%20Service%20Attacks%20in%20IoT%20Devices.pdf)
 
 The Internet of Things has allowed for
 widespread integration of technology in the
